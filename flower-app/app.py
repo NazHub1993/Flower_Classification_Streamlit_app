@@ -13,7 +13,7 @@ st.set_page_config(page_title="Flower AI", page_icon="🌸", layout="wide")
 #Loading the model and set the class names...................................
 @st.cache_resource
 def load_model():
-    return tf.keras.models.load_model("flower_model.h5")
+    return tf.keras.models.load_model("flower-app/flower_model.h5")
 
 
 model = load_model()
