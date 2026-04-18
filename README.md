@@ -152,6 +152,12 @@ Requests 🌍
 🔄 End-to-End Workflow
 
 <img width="916" height="317" alt="image" src="https://github.com/user-attachments/assets/cdcd3341-cf90-421c-aa99-5b497ff1465c" />
+---
+▶️ How to run the dependencies
+<img width="710" height="29" alt="image" src="https://github.com/user-attachments/assets/067bdb1b-954a-4263-b56c-a4563a2bc166" />
+
+
+---
 
 ▶️ Running the Application
 
@@ -164,5 +170,6 @@ How the application looks:
 👩‍💻 Author
 
 Developed by Nasrin
+---
 Institute of Information Technology (IIT), Jahangirnagar University
 
